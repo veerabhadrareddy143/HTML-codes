@@ -1,0 +1,4 @@
+kitchen
+beds
+hall
+
